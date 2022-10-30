@@ -3,6 +3,753 @@
         "file_path": "image/12.jpg",
         "median_rating": 7.0,
         "mean_rating": 6.59375,
-        "tags": ["Architecture", "High Dynamic Range (HDR)"]
+        "tags": [
+            "Architecture",
+            "High Dynamic Range (HDR)"
+        ]
+    },
+    "953619": {
+        "file_path": "image/1.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 5.637096774193548,
+        "tags": [
+            "Abstract",
+            "Macro"
+        ]
+    },
+    "953958": {
+        "file_path": "image/2.jpg",
+        "median_rating": 5.0,
+        "mean_rating": 4.698412698412699,
+        "tags": [
+            "Abstract",
+            "Black and White"
+        ]
+    },
+    "954184": {
+        "file_path": "image/3.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 5.674603174603175,
+        "tags": []
+    },
+    "954113": {
+        "file_path": "image/4.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 5.7734375,
+        "tags": [
+            "Nature",
+            "Black and White"
+        ]
+    },
+    "953980": {
+        "file_path": "image/5.jpg",
+        "median_rating": 5,
+        "mean_rating": 5.209302325581396,
+        "tags": [
+            "Macro",
+            "Floral"
+        ]
+    },
+    "954175": {
+        "file_path": "image/6.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 5.6,
+        "tags": [
+            "Nature",
+            "Insects, etc"
+        ]
+    },
+    "953349": {
+        "file_path": "image/7.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 6.1015625,
+        "tags": [
+            "Candid",
+            "Black and White"
+        ]
+    },
+    "953645": {
+        "file_path": "image/8.jpg",
+        "median_rating": 6,
+        "mean_rating": 6.0078740157480315,
+        "tags": []
+    },
+    "953897": {
+        "file_path": "image/9.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 6.5234375,
+        "tags": [
+            "Sky",
+            "Landscape"
+        ]
+    },
+    "953841": {
+        "file_path": "image/10.jpg",
+        "median_rating": 6,
+        "mean_rating": 5.984496124031008,
+        "tags": [
+            "Landscape",
+            "High Dynamic Range (HDR)"
+        ]
+    },
+    "953417": {
+        "file_path": "image/11.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 6.112903225806452,
+        "tags": [
+            "Macro"
+        ]
+    },
+    "953756": {
+        "file_path": "image/13.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 5.796875,
+        "tags": []
+    },
+    "954195": {
+        "file_path": "image/14.jpg",
+        "median_rating": 5.0,
+        "mean_rating": 5.040983606557377,
+        "tags": []
+    },
+    "953903": {
+        "file_path": "image/15.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 5.943548387096774,
+        "tags": [
+            "Black and White",
+            "Water"
+        ]
+    },
+    "954222": {
+        "file_path": "image/16.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 6.579365079365079,
+        "tags": [
+            "Sports",
+            "Action"
+        ]
+    },
+    "953889": {
+        "file_path": "image/17.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 6.553846153846154,
+        "tags": []
+    },
+    "953844": {
+        "file_path": "image/18.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 5.9140625,
+        "tags": [
+            "Nature",
+            "Animals"
+        ]
+    },
+    "954104": {
+        "file_path": "image/19.jpg",
+        "median_rating": 6,
+        "mean_rating": 5.959349593495935,
+        "tags": []
+    },
+    "954229": {
+        "file_path": "image/20.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 5.653225806451613,
+        "tags": []
+    },
+    "953550": {
+        "file_path": "image/21.jpg",
+        "median_rating": 7.0,
+        "mean_rating": 6.746153846153846,
+        "tags": [
+            "Landscape"
+        ]
+    },
+    "953726": {
+        "file_path": "image/22.jpg",
+        "median_rating": 5.0,
+        "mean_rating": 5.598360655737705,
+        "tags": []
+    },
+    "954228": {
+        "file_path": "image/23.jpg",
+        "median_rating": 5,
+        "mean_rating": 4.821705426356589,
+        "tags": []
+    },
+    "953750": {
+        "file_path": "image/24.jpg",
+        "median_rating": 5,
+        "mean_rating": 4.832,
+        "tags": [
+            "Nature",
+            "Animals"
+        ]
+    },
+    "954208": {
+        "file_path": "image/26.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 5.569230769230769,
+        "tags": [
+            "Urban",
+            "Lensbaby"
+        ]
+    },
+    "953810": {
+        "file_path": "image/27.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 5.6953125,
+        "tags": [
+            "Black and White",
+            "Birds"
+        ]
+    },
+    "954187": {
+        "file_path": "image/28.jpg",
+        "median_rating": 5.0,
+        "mean_rating": 5.360655737704918,
+        "tags": [
+            "Floral"
+        ]
+    },
+    "953348": {
+        "file_path": "image/30.jpg",
+        "median_rating": 5,
+        "mean_rating": 5.162601626016261,
+        "tags": []
+    },
+    "953283": {
+        "file_path": "image/31.jpg",
+        "median_rating": 7,
+        "mean_rating": 6.7555555555555555,
+        "tags": []
+    },
+    "953092": {
+        "file_path": "image/32.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 5.879032258064516,
+        "tags": [
+            "Rural",
+            "Children"
+        ]
+    },
+    "953751": {
+        "file_path": "image/33.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 6.103174603174603,
+        "tags": [
+            "Nature",
+            "High Dynamic Range (HDR)"
+        ]
+    },
+    "954112": {
+        "file_path": "image/34.jpg",
+        "median_rating": 6,
+        "mean_rating": 5.644628099173554,
+        "tags": [
+            "Urban",
+            "Nature"
+        ]
+    },
+    "954117": {
+        "file_path": "image/35.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 5.848484848484849,
+        "tags": []
+    },
+    "954116": {
+        "file_path": "image/36.jpg",
+        "median_rating": 6,
+        "mean_rating": 5.541984732824427,
+        "tags": [
+            "Architecture",
+            "Camera Phones"
+        ]
+    },
+    "953821": {
+        "file_path": "image/37.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 6.075757575757576,
+        "tags": [
+            "Black and White",
+            "Children"
+        ]
+    },
+    "953019": {
+        "file_path": "image/39.jpg",
+        "median_rating": 5,
+        "mean_rating": 4.365853658536586,
+        "tags": [
+            "Emotive",
+            "Self Portrait"
+        ]
+    },
+    "953780": {
+        "file_path": "image/40.jpg",
+        "median_rating": 5.0,
+        "mean_rating": 5.041666666666667,
+        "tags": []
+    },
+    "954186": {
+        "file_path": "image/41.jpg",
+        "median_rating": 5.0,
+        "mean_rating": 5.409836065573771,
+        "tags": [
+            "Insects, etc"
+        ]
+    },
+    "954119": {
+        "file_path": "image/42.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 5.6893939393939394,
+        "tags": []
+    },
+    "954063": {
+        "file_path": "image/43.jpg",
+        "median_rating": 5.5,
+        "mean_rating": 5.561538461538461,
+        "tags": [
+            "Animals"
+        ]
+    },
+    "954121": {
+        "file_path": "image/44.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 6.115384615384615,
+        "tags": [
+            "Architecture",
+            "Seascapes"
+        ]
+    },
+    "954066": {
+        "file_path": "image/45.jpg",
+        "median_rating": 5,
+        "mean_rating": 5.129770992366412,
+        "tags": [
+            "Abstract",
+            "Floral"
+        ]
+    },
+    "954125": {
+        "file_path": "image/46.jpg",
+        "median_rating": 5,
+        "mean_rating": 5.088,
+        "tags": [
+            "Landscape",
+            "Nature"
+        ]
+    },
+    "954067": {
+        "file_path": "image/47.jpg",
+        "median_rating": 7,
+        "mean_rating": 6.785185185185185,
+        "tags": []
+    },
+    "953582": {
+        "file_path": "image/48.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 5.943548387096774,
+        "tags": []
+    },
+    "954013": {
+        "file_path": "image/49.jpg",
+        "median_rating": 7.0,
+        "mean_rating": 6.75,
+        "tags": [
+            "Cityscape",
+            "Landscape"
+        ]
+    },
+    "954069": {
+        "file_path": "image/50.jpg",
+        "median_rating": 5.0,
+        "mean_rating": 5.098360655737705,
+        "tags": [
+            "Cityscape",
+            "Emotive"
+        ]
+    },
+    "954071": {
+        "file_path": "image/51.jpg",
+        "median_rating": 5,
+        "mean_rating": 5.456,
+        "tags": [
+            "Portraiture"
+        ]
+    },
+    "954225": {
+        "file_path": "image/52.jpg",
+        "median_rating": 5.0,
+        "mean_rating": 5.5625,
+        "tags": [
+            "Architecture"
+        ]
+    },
+    "954124": {
+        "file_path": "image/53.jpg",
+        "median_rating": 6,
+        "mean_rating": 6.105263157894737,
+        "tags": [
+            "Nature",
+            "Macro"
+        ]
+    },
+    "954218": {
+        "file_path": "image/54.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 5.604838709677419,
+        "tags": [
+            "Nature",
+            "Animals"
+        ]
+    },
+    "953577": {
+        "file_path": "image/55.jpg",
+        "median_rating": 6,
+        "mean_rating": 5.616,
+        "tags": [
+            "Urban"
+        ]
+    },
+    "953985": {
+        "file_path": "image/56.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 5.686567164179104,
+        "tags": [
+            "Sky",
+            "Nature"
+        ]
+    },
+    "954141": {
+        "file_path": "image/57.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 5.709677419354839,
+        "tags": []
+    },
+    "954118": {
+        "file_path": "image/58.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 6.234848484848484,
+        "tags": [
+            "Landscape",
+            "Rural"
+        ]
+    },
+    "953901": {
+        "file_path": "image/59.jpg",
+        "median_rating": 6,
+        "mean_rating": 5.984251968503937,
+        "tags": [
+            "Fashion",
+            "Water"
+        ]
+    },
+    "953794": {
+        "file_path": "image/60.jpg",
+        "median_rating": 5.0,
+        "mean_rating": 5.190476190476191,
+        "tags": [
+            "Nature",
+            "Insects, etc"
+        ]
+    },
+    "953853": {
+        "file_path": "image/61.jpg",
+        "median_rating": 5,
+        "mean_rating": 5.333333333333333,
+        "tags": []
+    },
+    "953757": {
+        "file_path": "image/62.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 5.938461538461539,
+        "tags": [
+            "Nude"
+        ]
+    },
+    "954130": {
+        "file_path": "image/63.jpg",
+        "median_rating": 5.0,
+        "mean_rating": 5.590163934426229,
+        "tags": [
+            "Landscape"
+        ]
+    },
+    "953994": {
+        "file_path": "image/64.jpg",
+        "median_rating": 5,
+        "mean_rating": 5.256,
+        "tags": [
+            "Black and White"
+        ]
+    },
+    "954180": {
+        "file_path": "image/65.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 5.584745762711864,
+        "tags": [
+            "Sky",
+            "Water"
+        ]
+    },
+    "954014": {
+        "file_path": "image/66.jpg",
+        "median_rating": 5,
+        "mean_rating": 4.966386554621849,
+        "tags": [
+            "Black and White",
+            "Floral"
+        ]
+    },
+    "954092": {
+        "file_path": "image/67.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 6.484615384615385,
+        "tags": []
+    },
+    "954226": {
+        "file_path": "image/68.jpg",
+        "median_rating": 4,
+        "mean_rating": 4.099173553719008,
+        "tags": [
+            "Blur",
+            "Insects, etc"
+        ]
+    },
+    "953946": {
+        "file_path": "image/69.jpg",
+        "median_rating": 6,
+        "mean_rating": 5.928,
+        "tags": []
+    },
+    "953334": {
+        "file_path": "image/70.jpg",
+        "median_rating": 5.0,
+        "mean_rating": 5.174603174603175,
+        "tags": [
+            "Street"
+        ]
+    },
+    "953126": {
+        "file_path": "image/71.jpg",
+        "median_rating": 6,
+        "mean_rating": 5.573643410852713,
+        "tags": []
+    },
+    "953245": {
+        "file_path": "image/72.jpg",
+        "median_rating": 5.0,
+        "mean_rating": 4.685483870967742,
+        "tags": [
+            "Urban",
+            "Transportation"
+        ]
+    },
+    "954122": {
+        "file_path": "image/73.jpg",
+        "median_rating": 5.0,
+        "mean_rating": 5.2578125,
+        "tags": []
+    },
+    "954227": {
+        "file_path": "image/74.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 5.785714285714286,
+        "tags": []
+    },
+    "953097": {
+        "file_path": "image/75.jpg",
+        "median_rating": 7,
+        "mean_rating": 7.3893129770992365,
+        "tags": [
+            "Humorous",
+            "Animals"
+        ]
+    },
+    "953965": {
+        "file_path": "image/76.jpg",
+        "median_rating": 5.0,
+        "mean_rating": 5.261904761904762,
+        "tags": [
+            "Floral"
+        ]
+    },
+    "954002": {
+        "file_path": "image/77.jpg",
+        "median_rating": 6,
+        "mean_rating": 6.441860465116279,
+        "tags": [
+            "Landscape",
+            "Floral"
+        ]
+    },
+    "953327": {
+        "file_path": "image/78.jpg",
+        "median_rating": 5.0,
+        "mean_rating": 5.444444444444445,
+        "tags": [
+            "Architecture",
+            "Lensbaby"
+        ]
+    },
+    "954052": {
+        "file_path": "image/79.jpg",
+        "median_rating": 6,
+        "mean_rating": 6.069767441860465,
+        "tags": [
+            "Macro",
+            "Insects, etc"
+        ]
+    },
+    "954224": {
+        "file_path": "image/80.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 6.207692307692308,
+        "tags": []
+    },
+    "953863": {
+        "file_path": "image/81.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 6.123076923076923,
+        "tags": [
+            "Animals"
+        ]
+    },
+    "953918": {
+        "file_path": "image/82.jpg",
+        "median_rating": 5,
+        "mean_rating": 5.408,
+        "tags": [
+            "Nature"
+        ]
+    },
+    "953933": {
+        "file_path": "image/83.jpg",
+        "median_rating": 5,
+        "mean_rating": 5.162790697674419,
+        "tags": [
+            "Nature",
+            "Animals"
+        ]
+    },
+    "953630": {
+        "file_path": "image/84.jpg",
+        "median_rating": 5.0,
+        "mean_rating": 5.282258064516129,
+        "tags": [
+            "Architecture",
+            "Street"
+        ]
+    },
+    "953004": {
+        "file_path": "image/85.jpg",
+        "median_rating": 5.0,
+        "mean_rating": 4.741935483870968,
+        "tags": [
+            "Nature",
+            "Water"
+        ]
+    },
+    "953935": {
+        "file_path": "image/86.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 5.703125,
+        "tags": [
+            "Action",
+            "Transportation"
+        ]
+    },
+    "954219": {
+        "file_path": "image/87.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 5.729508196721311,
+        "tags": [
+            "Sports",
+            "Still Life"
+        ]
+    },
+    "953977": {
+        "file_path": "image/88.jpg",
+        "median_rating": 5,
+        "mean_rating": 5.52755905511811,
+        "tags": [
+            "Urban",
+            "Black and White"
+        ]
+    },
+    "954048": {
+        "file_path": "image/89.jpg",
+        "median_rating": 5,
+        "mean_rating": 5.28,
+        "tags": []
+    },
+    "954183": {
+        "file_path": "image/90.jpg",
+        "median_rating": 5,
+        "mean_rating": 5.373983739837398,
+        "tags": [
+            "Nature",
+            "Birds"
+        ]
+    },
+    "953955": {
+        "file_path": "image/92.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 5.532258064516129,
+        "tags": [
+            "Nature",
+            "Animals"
+        ]
+    },
+    "953785": {
+        "file_path": "image/93.jpg",
+        "median_rating": 7,
+        "mean_rating": 6.728682170542636,
+        "tags": [
+            "Humorous"
+        ]
+    },
+    "954012": {
+        "file_path": "image/94.jpg",
+        "median_rating": 5.0,
+        "mean_rating": 5.4296875,
+        "tags": []
+    },
+    "953856": {
+        "file_path": "image/95.jpg",
+        "median_rating": 5.0,
+        "mean_rating": 4.893939393939394,
+        "tags": []
+    },
+    "954127": {
+        "file_path": "image/96.jpg",
+        "median_rating": 6.0,
+        "mean_rating": 6.242424242424242,
+        "tags": []
+    },
+    "954206": {
+        "file_path": "image/97.jpg",
+        "median_rating": 5.0,
+        "mean_rating": 5.270491803278689,
+        "tags": [
+            "Humorous"
+        ]
+    },
+    "954055": {
+        "file_path": "image/98.jpg",
+        "median_rating": 6,
+        "mean_rating": 5.699186991869919,
+        "tags": [
+            "Landscape"
+        ]
+    },
+    "953981": {
+        "file_path": "image/99.jpg",
+        "median_rating": 5.0,
+        "mean_rating": 4.714285714285714,
+        "tags": [
+            "Abstract",
+            "Black and White"
+        ]
     }
 }

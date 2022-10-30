@@ -130,7 +130,12 @@ with open(AVADataPath, "r") as f:
             continue
 
         URL = URLprefix + imageID
-        html = getHtml(URL).decode("utf-8")
+        html = getHtml(URL)
+        try:
+            html = html.decode("utf-8")
+        except UnicodeDecodeError as e:
+            print("Error decoding HTML for image ID ", imageID, e)
+            continue
         getImg(html, imageID, imageIndex)
         saveJSON(imageID, imageIndex, ratingsCounts, tagIds, challengeId)
         print(f'image{imageIndex} success')
