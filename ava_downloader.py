@@ -91,8 +91,6 @@ with open(tagsPath, "r") as f:
         tag_id, description = line.rstrip().split(" ", maxsplit=1)
         tags[tag_id] = description
 
-print("found these tags:", tags)
-
 beginIndex = int(sys.argv[1])
 endIndex = int(sys.argv[2])
 
@@ -120,6 +118,10 @@ with open(AVADataPath, "r") as f:
         except UnicodeDecodeError as e:
             print("Error decoding HTML for image ID ", imageID, e)
             continue
+        if "Page cannot be served due to suspicious activity detected from your address." in html:
+            print("Cannot fetch - website has detected webscraping :/. Quitting.")
+            break
+
         getImg(html, imageID, imageIndex)
         saveJSON(imageID, imageIndex, ratingsCounts, tagIds, challengeId)
         print(f'image{imageIndex} success')
