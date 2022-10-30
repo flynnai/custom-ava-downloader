@@ -1,21 +1,5 @@
-# coding= UTF-8
+# python3 ava_downloader.py beginIndex endIndex
 
-# Take a look at README first
-#
-# Author: Fing @EI, WHU
-# Finish on 2016-11-13
-#
-# Usage:
-#    $python ava_downloader.py beginIndex endIndex
-#  
-#  Also you can download in multi-process.
-#
-# Make sure AVA.txt and folder 'image' is under the directory 
-# Note: few images may be deleted from the website
-#
-
-
-from statistics import median
 from urllib.request import urlopen, urlretrieve
 import re
 import sys
@@ -139,21 +123,3 @@ with open(AVADataPath, "r") as f:
         getImg(html, imageID, imageIndex)
         saveJSON(imageID, imageIndex, ratingsCounts, tagIds, challengeId)
         print(f'image{imageIndex} success')
-
-
-"""
-Column 1: Index
-
-Column 2: Image ID 
-
-Columns 3 - 12: Counts of aesthetics ratings on a scale of 1-10. Column 3 
-has counts of ratings of 1 and column 12 has counts of ratings of 10.
-
-Columns 13 - 14: Semantic tag IDs. There are 66 IDs ranging from 1 to 66.
-The file tags.txt contains the textual tag corresponding to the numerical
-id. Each image has between 0 and 2 tags. Images with less than 2 tags have
-a "0" in place of the missing tag(s).
-
-Column 15: Challenge ID. The file challenges.txt contains the name of 
-the challenge corresponding to each ID.
-"""
